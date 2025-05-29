@@ -1,7 +1,3 @@
-<table border="0" width="581">
-  <tbody><tr>
-    <td align="left" valign="top" width="403">
-
 "Dichotomy of action-potential backpropagation in CA1 pyramidal neuron dendrites"
 
 Nace L. Golding, William L. Kath, and Nelson Spruston
@@ -10,15 +6,7 @@ Nace L. Golding, William L. Kath, and Nelson Spruston
 
 [Download the simulation archive](http://dendrites.esam.northwestern.edu/JNP_2001/dichotomy.zip)
 
-    </td>
-    <td align="left" valign="top" width="201">
-
-<img src="readme_files/cell2" height="345" width="161" alt="CA1 pyramidal neuron dendrites">
-
-    </td>
-  </tr>
-</tbody></table>
-
+![readme_files/cell2](readme_files/cell2)
 ---
 
 2025-05-27 – Standardized to Markdown.
